@@ -1,0 +1,62 @@
+img {
+  width: 100%;
+  
+
+}
+.imagparan
+{
+  height: 800px;
+  padding: 3px;
+}
+/* aller a la ligne*/
+* {
+  box-sizing: border-box;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.container
+{
+  width: 100%;
+  height: 60%;
+  
+}
+
+.paranimage{
+  width: 100%;
+  height: 100px;
+}
+.image1
+{
+width: 100%;
+height: 355px;
+}
+
+.paranimage2
+{
+width: 100%;
+height: 100px;
+}
+.image2
+{
+  width: 100%;
+}
+
+.paranimage3
+{
+  width: 100%;
+  height: 100px;
+}
+.image3
+{
+  width: 100%;
+}
